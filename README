@@ -21,7 +21,7 @@ the problems which may result by upgrading your kernel.
 
 Assignment 1 :
 
-[cmpe283-1.c](/assignment1/cmpe283-1.c)
+[cmpe283-1.c](https://github.com/yizhou1992/linux/blob/master/assignment1/cmpe283-1.c)
 
 Steps to compelete:
 
@@ -40,5 +40,5 @@ Steps to compelete:
 12.Run ($dmesg) 
 13.See output
     
-![Screenshot 1](/assignment1/Screenshot1.png)
-![Screenshot 2](/assignment1/Screenshot2.png)
+![Screenshot 1](https://github.com/yizhou1992/linux/blob/master/assignment1/Screenshot1.png)
+![Screenshot 2](https://github.com/yizhou1992/linux/blob/master/assignment1/Screenshot2.png)
