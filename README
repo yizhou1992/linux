@@ -16,3 +16,26 @@ several of them using the Restructured Text markup notation.
 Please read the Documentation/process/changes.rst file, as it contains the
 requirements for building and running the kernel, and information about
 the problems which may result by upgrading your kernel.
+
+
+
+Assignment 1 :
+
+Steps to compelete:
+
+1.Install VMware Workstation player16
+2.Download ubuntu iso image
+3.Boot up the VM
+4.Download source code from canvas.
+5.Install make ($sudo apt install make)
+6.Install GCC ($sudo apt install gcc)
+7.Install git ($sudo apt install git)
+8.Clone repository ($git clone https://github.com/yizhou1992/linux.git)
+9.Navegate to /assignment1 directory
+9.Copy source code in to /assigment1
+10.Run make command ($make)
+11.Run ($sudo insmod cmpe283-1.ko)
+12.Run ($dmesg) 
+13.See output
+    
+
