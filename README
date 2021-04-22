@@ -21,7 +21,7 @@ the problems which may result by upgrading your kernel.
 
 Assignment 1 :
 
-[cmpe283-1.c]https://github.com/yizhou1992/linux/blob/master/assignment1/cmpe283-1.c
+[cmpe283-1.c](https://github.com/yizhou1992/linux/blob/master/assignment1/cmpe283-1.c)
 
 Steps to compelete:
 
@@ -40,6 +40,6 @@ Steps to compelete:
 12.Run ($dmesg) 
 13.See output
     
-https://github.com/yizhou1992/linux/blob/master/assignment1/Screenshot%20from%202021-04-20%2021-35-01.png
+![Screenshot 1](https://github.com/yizhou1992/linux/blob/master/assignment1/Screenshot%20from%202021-04-20%2021-35-01.png)
 
-https://github.com/yizhou1992/linux/blob/master/assignment1/Screenshot%20from%202021-04-20%2021-35-19.png
+![Screenshot 2](https://github.com/yizhou1992/linux/blob/master/assignment1/Screenshot%20from%202021-04-20%2021-35-19.png)
